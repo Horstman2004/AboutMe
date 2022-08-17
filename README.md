@@ -27,17 +27,27 @@ Nighttime routine includes:
 [How to Skin a Cat](https://www.nytimes.com/2015/12/06/magazine/how-to-skin-a-cat.html#:~:text=''Always%20use%20a%20sharp%20blade,that%20make%20its%20death%20inescapable.)
 
 ## Persons of Interest
-[Hellen Keller][1]<br>
+Hellen Keller<br>
 <kbd>
 <img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/hellen.jpg">
 </kbd><br>
 
-[Linus][2]<br>
+Linus<br>
 <kbd>
 <img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/linus.jpg">
 </kbd><br>
 
-[Jeff Bezos][3]<br>
+Jeff Bezos<br>
 <kbd>
 <img src="https://github.com/Horstman2004/AboutMe/blob/cea1ed8e7c3360557b0687403e5f6c0bfc0f9486/jeffB.jpg">
 </kbd><br>
+
+## Favorite Terms
+| Terms | Definitions | My Meaning |
+| :- | :----: | ---: |
+| Fun | enjoyment, amusement, or lighthearted pleasure | Anything but Banders version |
+| Misery | Pain, agony | Pure suffering |
+
+
+
+
