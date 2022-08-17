@@ -28,10 +28,16 @@ Nighttime routine includes:
 
 ## Persons of Interest
 [Hellen Keller][1]<br>
+<kbd>
 <img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/hellen.jpg">
+</kbd><br>
 
-[Linus][1]<br>
+[Linus][2]<br>
+<kbd>
 <img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/linus.jpg">
+</kbd><br>
 
-[Jeff Bezos][1]<br>
-<img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/jeff.jpg">
+[Jeff Bezos][3]<br>
+<kbd>
+<img src="https://github.com/Horstman2004/AboutMe/blob/cea1ed8e7c3360557b0687403e5f6c0bfc0f9486/jeffB.jpg">
+</kbd><br>
