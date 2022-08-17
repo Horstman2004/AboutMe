@@ -27,5 +27,11 @@ Nighttime routine includes:
 [How to Skin a Cat](https://www.nytimes.com/2015/12/06/magazine/how-to-skin-a-cat.html#:~:text=''Always%20use%20a%20sharp%20blade,that%20make%20its%20death%20inescapable.)
 
 ## Persons of Interest
+[Hellen Keller][1]<br>
+<img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/hellen.jpg">
+
 [Linus][1]<br>
->img src="
+<img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/linus.jpg">
+
+[Jeff Bezos][1]<br>
+<img src="https://github.com/Horstman2004/AboutMe/blob/a533b570e43f03648d3a23dfa9c9c7573eade1a6/jeff.jpg">
