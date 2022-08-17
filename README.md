@@ -21,6 +21,9 @@ Nighttime routine includes:
 ## My Motto
 *If you think life is hard, try learning to code*
 
+## Favorite Quotes
+*If your friend jumps off a bridge would you?*
+
 ## Favortie websites
 [Stack Overflow](https://stackoverflow.com/)<br>
 [Google](https://www.google.com/)<br>
@@ -47,7 +50,7 @@ Jeff Bezos<br>
 | :- | :----: | ---: |
 | Fun | enjoyment, amusement, or lighthearted pleasure | Anything but Banders version |
 | Misery | Pain, agony | Pure suffering |
-
+| Success | the accomplishment of an aim or purpose | Completing atleast half of a project |
 
 
 
