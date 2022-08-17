@@ -19,7 +19,7 @@ Nighttime routine includes:
 5. Repeat Steps 3 and 4 5 times.
 
 ## My Motto
-*If you think life is hard, try learning to code
+*If you think life is hard, try learning to code*
 
 ## Favortie websites
 [Stack Overflow](https://stackoverflow.com/)<br>
