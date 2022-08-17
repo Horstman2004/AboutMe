@@ -49,7 +49,7 @@ Jeff Bezos<br>
 | Terms | Definitions | My Meaning |
 | :- | :----: | ---: |
 | Fun | enjoyment, amusement, or lighthearted pleasure | Anything but Banders version |
-| Misery | Pain, agony | Pure suffering |
+| Misery | Pain, agony | Pure suffering, Trying to center a div |
 | Success | the accomplishment of an aim or purpose | Completing atleast half of a project |
 
 
