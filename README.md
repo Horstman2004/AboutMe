@@ -22,8 +22,8 @@ Nighttime routine includes:
 *If you think life is hard, try learning to code
 
 ## Favortie websites
-[Stack Overflow](https://stackoverflow.com/)
-[Google](https://www.google.com/)
+[Stack Overflow](https://stackoverflow.com/)<br>
+[Google](https://www.google.com/)<br>
 [How to Skin a Cat](https://www.nytimes.com/2015/12/06/magazine/how-to-skin-a-cat.html#:~:text=''Always%20use%20a%20sharp%20blade,that%20make%20its%20death%20inescapable.)
 
 ## Persons of Interest
